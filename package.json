@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-intent",
+  "version": "0.0.2",
+  "description": "",
+  "main": "Intent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuchungui/react-native-android-intent.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "intent",
+    "react-native-android-intent"
+  ],
+  "author": "liuchungui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuchungui/react-native-android-intent/issues"
+  },
+  "homepage": "https://github.com/liuchungui/react-native-android-intent#readme"
+}
