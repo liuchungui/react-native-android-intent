@@ -1,4 +1,4 @@
-package com.initproject;
+package com.example.user.androidintent;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

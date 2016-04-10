@@ -1,4 +1,4 @@
-package com.initproject;
+package com.example.user.androidintent;
 
 import android.content.Intent;
 import android.content.pm.PackageManager;
