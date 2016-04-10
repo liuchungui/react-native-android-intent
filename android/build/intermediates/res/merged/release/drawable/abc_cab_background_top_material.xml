@@ -18,4 +18,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@android:color/white"/>
 </shape>
-<!-- From: file:/Users/user/github/TestProject/android/androidintent/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml -->
+<!-- From: file:/Users/user/github/TestProject/android/androidintent/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml -->

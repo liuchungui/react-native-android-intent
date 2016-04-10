@@ -20,4 +20,4 @@
           android:alpha="@dimen/highlight_alpha_material_colored"
           android:color="?android:attr/colorControlActivated" />
     <item android:color="?android:attr/colorControlHighlight" />
-</selector><!-- From: file:/Users/user/github/TestProject/android/androidintent/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color-v23/abc_color_highlight_material.xml -->
+</selector><!-- From: file:/Users/user/github/TestProject/android/androidintent/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color-v23/abc_color_highlight_material.xml -->

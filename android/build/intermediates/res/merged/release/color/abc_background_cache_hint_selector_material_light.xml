@@ -17,4 +17,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@color/background_material_light" />
 </selector>
-<!-- From: file:/Users/user/github/TestProject/android/androidintent/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_background_cache_hint_selector_material_light.xml -->
+<!-- From: file:/Users/user/github/TestProject/android/androidintent/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_background_cache_hint_selector_material_light.xml -->

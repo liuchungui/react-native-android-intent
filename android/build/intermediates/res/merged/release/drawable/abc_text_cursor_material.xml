@@ -20,4 +20,4 @@
     <size android:height="2dp"
           android:width="2dp"/>
     <solid android:color="@android:color/white"/>
-</shape><!-- From: file:/Users/user/github/TestProject/android/androidintent/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml -->
+</shape><!-- From: file:/Users/user/github/TestProject/android/androidintent/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml -->

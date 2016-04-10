@@ -20,4 +20,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/abc_textfield_search_default_mtrl_alpha"/>
     <item android:drawable="@drawable/abc_textfield_search_default_mtrl_alpha"/>
 </selector>
-<!-- From: file:/Users/user/github/TestProject/android/androidintent/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml -->
+<!-- From: file:/Users/user/github/TestProject/android/androidintent/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml -->
